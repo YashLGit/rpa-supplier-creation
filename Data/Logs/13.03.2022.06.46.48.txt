@@ -1,0 +1,22 @@
+Processing started on machine: INNOBOT003
+[06:46:48 PM] Killing processes...
+[06:46:48 PM] Pushing to queue
+[06:46:49 PM] Opening applications
+[06:46:51 PM] Get the transaction item
+[06:46:52 PM] Processing Transaction Number: 1
+[06:46:52 PM] Started Process
+[06:46:52 PM] Started supplier creation
+[06:46:52 PM] Enter supplier details
+[06:46:55 PM] Upload image
+[06:47:00 PM] Enter other revelevant information and save
+[06:47:05 PM] Started the email sending process
+[06:47:07 PM] Filter from external name, take screenshot and send mail
+[06:47:13 PM] Export to csv and excel creation process started
+[06:47:13 PM] Export to csv
+[06:47:14 PM] Save file
+[06:47:20 PM] Read csv
+[06:47:20 PM] Remove duplicates
+[06:47:20 PM] Write to excel
+[06:47:26 PM] Get the transaction item
+[06:47:27 PM] Process finished due to no more transaction data
+[06:47:27 PM] Closing applications...
